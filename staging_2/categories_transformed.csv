@@ -1,0 +1,8 @@
+category_id,category_name,extraction_timestamp,data_source
+1,Children Bicycles,2026-04-03T20:36:26,DeltaLake
+2,Comfort Bicycles,2026-04-03T20:36:26,DeltaLake
+3,Cruisers Bicycles,2026-04-03T20:36:26,DeltaLake
+4,Cyclocross Bicycles,2026-04-03T20:36:26,DeltaLake
+5,Electric Bikes,2026-04-03T20:36:26,DeltaLake
+6,Mountain Bikes,2026-04-03T20:36:26,DeltaLake
+7,Road Bikes,2026-04-03T20:36:26,DeltaLake

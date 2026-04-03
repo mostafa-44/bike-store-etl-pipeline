@@ -1,0 +1,11 @@
+dataset,rows_before,null_cells_found,rows_dropped_null,duplicates_found,rows_dropped_domain,rows_after
+orders,1445,0,0,0,0,1445
+order_items,4764,0,0,34,1,4729
+brands,9,0,0,0,0,9
+categories,7,0,0,0,0,7
+customers,1445,1267,0,0,0,1445
+products,334,0,0,13,0,321
+staffs,10,6,1,0,0,9
+stocks,939,0,0,0,0,939
+stores,3,2,0,0,0,3
+exchange_rates,166,0,0,0,0,166

@@ -1,0 +1,10 @@
+brand_id,brand_name,extraction_timestamp,data_source
+1,Electra,2026-04-03T20:36:26,DeltaLake
+2,Haro,2026-04-03T20:36:26,DeltaLake
+3,Heller,2026-04-03T20:36:26,DeltaLake
+4,Pure Cycles,2026-04-03T20:36:26,DeltaLake
+5,Ritchey,2026-04-03T20:36:26,DeltaLake
+6,Strider,2026-04-03T20:36:26,DeltaLake
+7,Sun Bicycles,2026-04-03T20:36:26,DeltaLake
+8,Surly,2026-04-03T20:36:26,DeltaLake
+9,Trek,2026-04-03T20:36:26,DeltaLake
