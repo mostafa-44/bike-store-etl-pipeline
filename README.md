@@ -3,15 +3,6 @@
 
 > A complete ETL pipeline that extracts data from multiple sources, cleans it, transforms it, builds a Star Schema data warehouse, and generates business intelligence charts — all in Python.
 
----
-
-## 👥 Team Members
-| Name | Role |
-|---|---|
-| Menna Allah | Data Engineer |
-| Mustafa Atef | Data Engineer |
-
----
 
 ## 📊 Project Overview
 
